@@ -75,6 +75,7 @@ class MetaDataTypes(Enum):
     ExternalDataSourceTable = 'e3403acd-1c95-421b-87e4-4dfa29d38b52'  # ВнешнийИсточникДанных Таблица
     ExternalDataSourceTableForm = '17816ebc-4068-496e-adc4-8879945a832f'  # ВнешнийИсточникДанных Таблица
     ExternalDataSourceTableCommand = '5bb6f09e-5d80-41f6-8070-9faa4d15b69b'  # ВнешнийИсточникДанных Таблица
+    ExternalReport = 'e41aff26-25cf-4bb6-b6c1-3f478a75f374'  # Внешний отчет
     FilterCriterion = '3e7bfcc0-067d-11d6-a3c7-0050bae0a776'  # Критерии отбора
     FilterCriterionCommand = "23fa3b84-220a-40e9-8331-e588bed87f7d"
     FilterCriterionForm = '00867c40-06b1-11d6-a3c7-0050bae0a776'  # Критерии отбора Form
